@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GW2 Tool</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tracker_button">Daily Dungeons Tracker</string>
+    <string name="title_activity_tracker">Dungeon Tracker</string>
+    <string name="ac_p1">AC 1</string>
+    <string name="ac_p2">AC 2</string>
+    <string name="ac_p3">AC 3</string>
+    
+    <string name="cm_p1">CM 1</string>
+    <string name="cm_p2">CM 2</string>
+    <string name="cm_p3">CM 3</string>
+   
+    <string name="ta_ap">TA Ae</string>
+    <string name="ta_f">TA Fo</string>
+    <string name="ta_u">TA Up</string>
+    
+    <string name="se_p1">SE 1</string>
+    <string name="se_p2">SE 2</string>
+    <string name="se_p3">SE 3</string>
+
+    <string name="cof_p1">CoF 1</string>
+    <string name="cof_p2">CoF 2</string>
+    <string name="cof_p3">CoF 3</string>
+  
+    <string name="hotw_p1">HotW 1</string>
+    <string name="hotw_p2">HotW 2</string>
+    <string name="hotw_p3">HotW 3</string>
+    
+    <string name="coe_p1">CoE 1</string>
+    <string name="coe_p2">CoE 2</string>
+    <string name="coe_p3">CoE 3</string>    
+    
+    <string name="ar_p1">Arah 1</string>
+    <string name="ar_p2">Arah 2</string>
+    <string name="ar_p3">Arah 3</string>  
+    <string name="ar_p4">Arah 4</string>
+    
+    <string name="gold_earned">Total Gold Today: </string>
+    <string name="gold">(string)totalGold</string>
+</resources>
+
